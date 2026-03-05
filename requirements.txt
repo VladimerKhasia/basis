@@ -1,0 +1,12 @@
+numpy
+jax
+jaxlib
+flax
+optax
+torch
+torchvision
+datasets
+tiktoken
+matplotlib
+pandas
+tqdm
